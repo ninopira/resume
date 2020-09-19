@@ -9,7 +9,7 @@
 - 深層学習を用いたNLPの分類タスク
 - 因果推論を用いた効果測定
 - 深層学習を用いた画像の異常検知(2案件 / 内1つはPM)
-- システム化を見据えた需要予測モデルのPoCと業務要件整理とシステム化ロードマップ作成(PM)
+- システム化を見据えた需要予測モデルのPoCとビジネス構想整理とシステム化ロードマップ作成(PM)
 
 
 ## 対外活動
@@ -38,7 +38,7 @@
 
 
 ## 関連リンク
-kaggle expert  (4 silver medals)  
+kaggle expert  (5 silver medals)  
 https://www.kaggle.com/itokashi
 
 ブログ  
