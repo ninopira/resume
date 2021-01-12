@@ -49,7 +49,7 @@ PoC終了後は、サービスの企画設計やパイロット稼働に関す�
 
 
 ## 関連リンク
-kaggle expert  (5 silver medals)  
+kaggle expert  (6 silver medals)  
 https://www.kaggle.com/itokashi
 
 ブログ  
