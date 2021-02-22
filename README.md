@@ -52,7 +52,7 @@ PoC終了後は、サービスの企画設計やパイロット稼働に関す�
 - 2019, 白金鉱業 Meetup Vol.12(白金鉱業 x IBM社内勉強会dsn 合同企画回), 因果推論の基礎とその罠([イベントリンク](https://brainpad-meetup.connpass.com/event/147202/)、[登壇資料リンク](https://speakerdeck.com/ninohira/yin-guo-tui-lun-falseji-chu-tosofalsemin-basic-and-trap-of-causal-inference-number-bai-jin-kuang-ye))
 - 2019, Japan.R 2019, 今再びのRによる因果推論([イベントリンク](http://japanr.net/)、[登壇資料リンク](https://speakerdeck.com/ninohira/jin-zai-hifalserniyoruyin-guo-tui-lun-causal-interference-by-r-number-japanr))
 - 2020, Music×Analytics Meetup, アーティストにとっての「愛」とは？([イベントリンク](https://muana.connpass.com/event/155446/)、[登壇資料リンク](https://speakerdeck.com/ninohira/ateisutonitotutefalse-ai-toha-what-is-love-for-artist))
-- 2020, Bonfire Data Analyst #3, 無駄分析を避ける為にデータサイエンティストに求められる力([イベントリンク](https://yj-meetup.connpass.com/event/184700/)、[登壇資料リンク](https://speakerdeck.com/ninohira/wu-tuo-fen-xi-wobi-keruwei-nidetasaienteisutoniqiu-merareruneng-lit))
+- 2020, Bonfire Data Analyst #3, 無駄分析を避ける為にデータサイエンティストに求められる力([イベントリンク](https://yj-meetup.connpass.com/event/184700/)、[登壇資料リンク](https://speakerdeck.com/ninohira/wu-tuo-fen-xi-wobi-keruwei-nidetasaienteisutoniqiu-merareruneng-li))
 
 
 ## 関連リンク
