@@ -85,7 +85,7 @@ github
 早稲田大学大学院 創造理工学研究科 経営システム工学専攻 情報数理応用研究室に所属
 研究室では、様々なマーケティングデータに対する機械学習手法の研究を行なっていました
 
-#### 学会(筆頭著者)
+##### 学会(筆頭著者)
 
 Masato Ninohira, Leona Suzuki, Haruka Yamashita, Masayuki Goto: "Customer clustering based on latent class model representing preference for item seasonality", The 7th Forum for Council of Industrial Engineering and Logistics Management Department Heads (CIEDH2016) & The 5th Institute of Industrial and Systems Engineering Asian Conference (IISEAsia2016), No.103, Hong Kong, 2016
 
@@ -95,7 +95,7 @@ Masato Ninohira, Kenta Mikawa, Masayuki Goto: "A Study on Prediction Model of Se
 
 仁ノ平 将人，三川健太，後藤正幸: "混合回帰モデルに基づく中古ファッションアイテムの販売価格予測モデルの提案", 第40回情報理論とその応用シンポジウム(SITA2017), 2017
 
-#### 論文
+##### 論文
 
 関口あゆみ, 仁ノ平 将人，三川健太，後藤正幸："推定購買確率と予測評価値をバランスする意外性指標に基づく推薦システム"，経営情報学会誌, Vol.27, No.1, pp.67-78, 2018
 
