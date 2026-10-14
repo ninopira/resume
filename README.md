@@ -1,6 +1,6 @@
 # resume
 
-## 指名
+## 氏名
 仁ノ平 将人 (masato.ninohira)
 
 ## 主な経験
